@@ -1,0 +1,1 @@
+alert("Apna goan ki zameen mere naam karo" )
